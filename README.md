@@ -125,7 +125,7 @@ int main(int argc, char *argv[])
     return app.exec();
 }
 ```
-## Coffe.pro:
+## Coffee.pro:
 
 ```ts
 QT += qml quick
