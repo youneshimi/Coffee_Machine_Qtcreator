@@ -151,5 +151,6 @@ else: win32|unix: target.path = $$[QT_INSTALL_EXAMPLES]/demos/$${TARGET}
 !isEmpty(target.path): INSTALLS += target
 
 SUBDIRS +=
-```![Projet sans titre](https://user-images.githubusercontent.com/96379214/151575297-56c66a3b-7f08-40e5-80e9-dc5b5e2fda59.gif)
+```
+![Projet sans titre](https://user-images.githubusercontent.com/96379214/151575297-56c66a3b-7f08-40e5-80e9-dc5b5e2fda59.gif)
 
